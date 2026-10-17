@@ -2,7 +2,7 @@
 exo__Asset_uid: 7feb5d84-ab4a-495e-b0d8-edae41ab69db
 exo__Asset_isDefinedBy: "[[e4920222-66a9-4103-9a4b-13d0a9e2d381]]"
 exo__Asset_createdAt: 2026-06-14T04:46:34+05:00
-exo__Asset_updatedAt: 2026-09-12T15:20:32
+exo__Asset_updatedAt: 2026-10-17T23:50:27
 exo__Instance_class:
   - "[[73bd00e4-ccc0-4f3f-b20d-c4388c4588fb]]"
 exo__Asset_label: "kitelev/exoas-shared-identities"
@@ -16,6 +16,7 @@ exo__AssetSpace_dependsOn:
   - "[[be4d6411-b951-42fe-826a-d55ab93a7acb|exoas-ztlk]]"
 aliases:
   - "$shared-identities AssetSpace"
+  - "kitelev/exoas-shared-identities"
 exo__AssetSpace_dependsOnKind: "[[e1d7fb5c-d334-448d-935b-953b7b033e78]]"
 ---
 exo__AssetSpace descriptor for `kitelev/exoas-shared-identities` (EKA registry, D18 dependsOn). Holds foundational shared-identity TBox + concept classes referenced by leaf ABox.
